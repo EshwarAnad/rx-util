@@ -3,7 +3,7 @@
     "target": "es6",
     "lib": ["es2017", "esnext.array", "dom", "es2015.iterable"],
     "types": ["typescript", "jest", "jest-extended"],
-    "module": "es2015",
+    "module": "esnext",
     "declaration": true,
     "declarationMap": true,
     "outDir": "./dist",
